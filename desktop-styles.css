@@ -1,0 +1,6 @@
+/* Desktop Styles */
+@media(min-width: 1024px) {
+    main {
+        width: 736px;
+    }
+}
