@@ -1,3 +1,4 @@
+/* Mobile Design */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -46,6 +47,7 @@ h2, .ingredients-section li::marker, .instructions-section li::marker, table str
     padding: 24px;
     border-radius: 12px;
     background-color: #FFF7FB;
+    min-width: 165px;
 }
 
 h3 {
