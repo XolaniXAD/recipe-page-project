@@ -22,8 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://xolanixad.github.io/recipe-page-project/)
 
 ## My process
 
@@ -49,7 +48,7 @@ I strive to ensure that I write better code in the first few versions of my comm
 
 ## Author
 
-- Frontend Mentor - [@XolaniXAD](https://www.frontendmentor.io/profile/@XolaniXAD)
+- Frontend Mentor - [@XolaniXAD](https://www.frontendmentor.io/profile/XolaniXAD)
 
 ## Acknowledgments
 
