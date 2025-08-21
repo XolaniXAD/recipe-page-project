@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main, .image-section, .recipe-section, img, section {
+    width: 100%;
+}
+
+.recipe-section {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+header, .prep-time-section, .ingredients-section, .instructions-section {
+    margin-bottom: 32px;
+}
+
+.ingredients-section, .instructions-section {
+    padding-bottom: 32px;
+}
+h1 {
+    margin-top: 40px;
+    margin-bottom: 24px;
+}
+
+.prep-time-section {
+    background-color: aqua;
+    padding: 24px;
+    border-radius: 12px;
+}
+
+h2, li {
+    margin-bottom: 24px;
+}
+
+table {
+    margin-bottom: 40px;
+}
+
+
