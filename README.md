@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution: [Frontend Mentor Solution](#)
+- Solution: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/static-landing-page-using-css-mobile-first-and-flexbox-8SxcJTvlzs)
 - Live Site URL: [Live Site](https://xolanixad.github.io/recipe-page-project/)
 
 ## My process
