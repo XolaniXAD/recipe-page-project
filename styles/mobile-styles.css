@@ -31,7 +31,7 @@ header,
 .ingredients-section,
 .instructions-section {
     padding-bottom: 32px;
-    border-bottom: 2px solid #E3DDD7;
+    border-bottom: 1px solid #E3DDD7;
 }
 
 h1 {
@@ -97,11 +97,12 @@ table {
 
 td {
     height: 48px;
-    border-bottom: 2px solid #E3DDD7;
+    border-bottom: 1px solid #E3DDD7;
     vertical-align: middle;
+    padding-left: 24px;
 }
 
-.left-cell {
+.last-column {
     border-bottom: none;
 }
 
