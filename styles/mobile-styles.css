@@ -7,7 +7,12 @@
     color: #5F564D;
 }
 
-main, .image-section, .recipe-section, img, section, .nutrition-section {
+main,
+.image-section,
+.recipe-section,
+img,
+section,
+.nutrition-section {
     width: 100%;
 }
 
@@ -16,11 +21,15 @@ main, .image-section, .recipe-section, img, section, .nutrition-section {
     padding-right: 32px;
 }
 
-header, .prep-time-section, .ingredients-section, .instructions-section {
+header,
+.prep-time-section,
+.ingredients-section,
+.instructions-section {
     margin-bottom: 32px;
 }
 
-.ingredients-section, .instructions-section {
+.ingredients-section,
+.instructions-section {
     padding-bottom: 32px;
     border-bottom: 2px solid #E3DDD7;
 }
@@ -35,7 +44,10 @@ h1, h2 {
     font-family: "Young Serif", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-h2, .ingredients-section li::marker, .instructions-section li::marker, table strong {
+h2,
+.ingredients-section li::marker,
+.instructions-section li::marker,
+table strong {
     color: #854632;
 }
 
@@ -48,6 +60,10 @@ h2, .ingredients-section li::marker, .instructions-section li::marker, table str
     border-radius: 12px;
     background-color: #FFF7FB;
     min-width: 165px;
+}
+
+.last-list-bottom {
+    margin-bottom: 0;
 }
 
 h3 {
@@ -83,6 +99,10 @@ td {
     height: 48px;
     border-bottom: 2px solid #E3DDD7;
     vertical-align: middle;
+}
+
+.left-cell {
+    border-bottom: none;
 }
 
 
